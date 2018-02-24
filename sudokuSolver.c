@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+Made By Tahnasib Gafarov
+https://github.com/thmsbgfrv
+*/
 #define sudoku_x 9
 #define sudoku_y 9
 #define little_box_x 3
